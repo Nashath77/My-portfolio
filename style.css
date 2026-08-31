@@ -284,6 +284,9 @@ h4 {
   padding: 84px 24px;
   margin-top: 40px;
 }
+.first-content{
+  padding-left: 5%;
+}
 
 
 
@@ -302,6 +305,8 @@ h4 {
     flex-wrap: wrap;
     align-items: center;
     text-align: center;
+    width: auto;
+    padding-left: 0;
 
   }
 }
